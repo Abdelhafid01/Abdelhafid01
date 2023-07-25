@@ -3,13 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abdelhafid01&label=Profile%20views&color=brightgreen&style=flat" alt="mohdsultangit" /> </p> 
 
-<p align="left"> <a href="https://twitter.com/mohd_sultan2004" target="blank"><img src="https://img.shields.io/twitter/follow/mohd_sultan2004?logo=twitter&style=for-the-badge" alt="mohd_sultan2004" /></a> </p>
-
-- 🌱 I’m currently learning/working with java/angular languages**
+- 🌱 I’m currently learning and working with java/angular languages**
 
 - 📫 How to reach me **contact@abdelhafidchetouani.com**
-
-- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
