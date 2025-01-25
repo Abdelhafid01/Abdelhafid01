@@ -1,11 +1,11 @@
-<h1 align="center">Assalam alaykoum 👋, I'm Abdelhafid Chetouani</h1>
+<h1 align="center">Hello 👋, I'm Abdelhafid Chetouani</h1>
 <h3 align="center">A passionate software engineer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abdelhafid01&label=Profile%20views&color=brightgreen&style=flat" alt="Abdelhafid01" /> </p> 
 
 🌱 I’m currently learning and working with java/angular languages. I'm a passionate problem solver, I love diving deep into new systems and frameworks with an eye for how they can be used to improve systems and increase development velocity. 🌱
 
-📫 How to reach me **contact@abdelhafidchetouani.com**
+📫 How to reach me **contact@abdelhafidchetouani.com** / **abdelhafid.ch@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
